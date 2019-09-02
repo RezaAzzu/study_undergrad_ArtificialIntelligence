@@ -1,2 +1,18 @@
-# study_undergrad_ArtificialIntelligence
-Contains all of my reports on the practicum "Artificial Intelligence" of my undergraduate education in Brawijaya University (fourth semester, 2017).
+# Introduction
+Contains all of my reports on the practicum "Artificial Intelligence" (Kecerdasan Buatan) of my undergraduate education in Faculty of Computer Science (Fakultas Ilmu Komputer; FILKOM), Brawijaya University (fourth semester, 2017). The reports are in Indonesian languange. As I have finished my undergraduate education, I am free from the obligation to keep my work to myself so that juniors can't copy my work. The programming languange we used was Java, and we used the Netbeans IDE for our development. During our study of databases, we are required to accomplish tasks and assignments. Those tasks and assignments are in the form of reports, and each chapter discusses certain topics and concepts related to Artificial Intelligence. I thank Annisa Fitriani Nur and Riski Puspa Dewi D. P. for being pretty straight and serious practicum assistants and thus helped me to understood the concepts behind AI. Will update this when I find their GitHub accounts.
+
+## How is this repo structured?
+The repo consists of my works on the Artificial Intelligence practicum. All of my works can be found inside the reports. There are a total of 12 reports, each represents a chapter ("bab"), and each of the chapters cover some topics:
+
+1. Chapter 1: Smart Agents. Contains explanation on the five types of agents, their PEAS, and an example implementation of a smart agent.
+2. Chapter 2: Uninformed Search. Contains formulations/explanations of solutions to some games and problems, and an implementation to the water jug problem.
+3. Chapter 3: Informed Search. Contains formulations/explanations of solutions to some games and problems, and an A* algorithm implementation to one of the aformentioned problems.
+4. Chapter 4: Constrained Satisfaction Problem. Contains formulations/explanations of solutions to some games and problems, and an implementation of the coloring map problem.
+5. Chapter 5: Logic Agents. Contains truth tables and entailment process as a logical agent's reasoning basis, and an implementation of the Wumpus World.
+6. Chapter 6: First Order Logic (FOL). Contains FOL representation of some sentences and the Wumpus World.
+7. Chapter 7: Logic Programming. Contains FOL knowledge base of some facts, and implementation of FOL knowledge base in the Prolog programming languange.
+8. Chapter 8: Uncertainty. Contains Bayesian calculation of class prediction on stroke patients, and Bayesian implementation of an event prediction.
+9. Chapter 9: Bayesian Network. Contains implementation of a Bayesian Network in predicting an event.  
+
+The reports itself contain essays that answer various questions and implementation (code) of challenges based on each chapter. Some of the chapters' questions are found inside the reports. Hopefully this can show that I have past experience working with AI subjects. 
+Personally, this practicum is one of the most challenging and hardest practicum I'd ever experienced during my time as a computer science undergrad. I had difficulties to "translate" the concepts I'd studied into code and I also almost gave up on the subject, because moving away from basic problem-solving paradigms to FILKOM's AI practicum was such a very steep experience. This situation is made worst by the course's policy to ban the usage of third-party libraries in implementing AI functionalities (except in chapter 5). Thankfully, this practicum was finished in groups, and I forever thank my pals Muhamad Miftahur Ridhoilah, Hanaria Tampubolon, Dwi Retnoningrum, and Kifli for their hard work and solid team work in helping me through my hardships (will update this when I find their GitHub accounts.). I also hope future AI practicum in FILKOM can be more approachable and practical, but at the same time adequate enough to be taught for to learn the basic concepts of AI.  
